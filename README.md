@@ -20,3 +20,13 @@ To derive actionable insights and create a dashboard that highlights key perform
 
 -Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/Screenshot%202025-01-07%20203555.png">View Dashboard</a>
 
+## Process
+-Conducted data quality assessments to identify and address missing values, outliers, and anomalies.
+
+Standardized and cleaned datasets to ensure consistency across data types, formats, and categorical values for accurate analysis.
+
+Utilized DAX (Data Analysis Expressions) to develop calculated columns, measures, and KPIs for extracting actionable performance insights.
+
+Developed interactive dashboards using visual analytics tools to present key performance indicators (KPIs) and delivered data-driven recommendations based on insights.
+
+![Screenshot 2025-01-07 203555](https://github.com/user-attachments/assets/a8606fe5-5c33-4d9d-99e7-61bf3de7cd22)
