@@ -18,5 +18,5 @@ To derive actionable insights and create a dashboard that highlights key perform
 
 -Visualize number of calls per month
 
--Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/Screenshot%202025-01-07%20203555.png>View Dashboard</a>
+-Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/Screenshot%202025-01-07%20203555.png">View Dashboard</a>
 
