@@ -16,7 +16,7 @@ To derive actionable insights and create a dashboard that highlights key perform
 
 -What's the customer satisfaction rate like, visualizing number of calls per month.
 
--Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/Screenshot%202025-01-07%20203555.png">View Dashboard</a>
+-Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/commit/cc6ba6ee896a293c0403cd345c024851eb674ffa">View Dashboard</a>
 
 ## Process
 -Conducted data quality assessments to identify and address missing values, outliers, and anomalies.
@@ -28,7 +28,13 @@ To derive actionable insights and create a dashboard that highlights key perform
 -Developed interactive dashboards using visual analytics tools to present key performance indicators (KPIs) and delivered data-driven recommendations based on insights.
 
 
-![Screenshot 2025-01-07 203555](https://github.com/user-attachments/assets/a8606fe5-5c33-4d9d-99e7-61bf3de7cd22)
+![Screenshot 2025-04-21 145416](https://github.com/user-attachments/assets/01e2dec7-af49-4518-80dd-036158bd657c)
+![Screenshot 2025-04-21 145454](https://github.com/user-attachments/assets/31db79c7-3da5-42c5-92a7-497b4d2b773a)
+![Screenshot 2025-04-21 145521](https://github.com/user-attachments/assets/56403276-b7ae-48dc-9df4-1f185d962e6e)
+![Screenshot 2025-04-21 145540](https://github.com/user-attachments/assets/0c740ef3-2284-423c-b07b-b41e60d07dcb)
+
+
+
 
 ## Project Insight
 
