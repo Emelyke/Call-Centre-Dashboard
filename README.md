@@ -54,6 +54,6 @@ To derive actionable insights and create a dashboard that highlights key perform
 
 -Optimize workforce scheduling by aligning agent availability with peak call hours especially during weekends and Mondays to reduce unanswered calls. Implement call queue management tools and consider self-service options (e.g., IVR, chatbots) to improve response rates, enhance customer satisfaction, and protect brand reputation.
 
--Implement a continuous training and development program to reinforce best practices, keep agents updated on industry trends, and enhance their ability to deliver effective solutions. This will not only improve individual agent performance but also ensure consistent, high-quality custome.
+-Implement a continuous training and development program to reinforce best practices, keep agents updated on industry trends, and enhance their ability to deliver effective solutions. This will not only improve individual agent performance but also ensure consistent, high-quality customer satisfaction.
 
 -Implement multichannel support (e.g., live chat, email, and social platforms) to enhance service accessibility and streamline operational efficiency.
