@@ -6,17 +6,15 @@ To derive actionable insights and create a dashboard that highlights key perform
 - <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 
 ## Problem Statement (KPI'S)
--What is the average speed of answer?
+-What is the average speed/call duration of answer? and How does the average speed of answer vary by agent and imparts operation?
 
--How does the average speed of answer vary by agent?
+-Are there any trends in unanswered calls across dates and time?
 
--Are there trends in unanswered calls across dates and time?
-
--How many issues were resolved?
+-How many issues were resolved and unresolved?
 
 -How many calls were answered in total?
 
--Visualize number of calls per month
+-What's the customer satisfaction rate like, visualizing number of calls per month.
 
 -Dashboard Interaction  <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/Screenshot%202025-01-07%20203555.png">View Dashboard</a>
 
@@ -34,35 +32,22 @@ To derive actionable insights and create a dashboard that highlights key perform
 
 ## Project Insight
 
--There’s a positive revenue-to-cost ratio with a total profit of ₦98M. Indicates strong market engagement and demand for services.
+-An average speed of answer at 67.52 seconds, compared to a short talk duration of 30.21 seconds, indicates potential inefficiencies in call handling and agent availability, which potentially leads to customer dissatisfaction.
 
--The export quarterly revenue trend exhibits a steady linear progression between 1 to 1.2 billion, with a high spike in Q4 2021 and the low revenue in Q3 2021 and Q4 2022.
+-There's a spike in unanswered calls during peak hours (9 AM, 11 AM, 12 PM, and 5 PM), particularly on weekends and Mondays. This contributes to decreased service efficiency, negatively impacts business performance, and poses a risk to the company’s reputation due to unmet customer needs.
 
--Sesame, cocoa, and cashew nuts remain the top-performing agricultural export products, with cashew and palm oil closely following as key contributors to the sector’s growth
+-A significant proportion of unresolved customer calls occurs during weekends, primarily due to high call volumes that exceed support capacity, resulting in delayed responses, reduced service quality, and ultimately, unresolved customer issues.
 
--Products with lower revenue streams yielded higher profits than some high-revenue products. This variance is attributed to pricing strategies, cost structures, or the volume of units exported, influencing overall profitability.
-
--Volume of units exported barely influenced the high revenue generated in most products,This variance is attributed to pricing strategies
-
--Significant losses were incurred due to elevated exportation costs, high port fees, and increased transportation expenses associated with transferring goods from production sites to storage facilities.
-
+-Average customer satisfaction score of 3.40 out of 5 indicates a moderate level of satisfaction, suggesting that while basic expectations are being met, there's significant room for improvement
 
 ## Recommendation:
 
--To enhance agro-export sector the following is essential;
+-Improve call routing and optimize agent scheduling to reduce wait times. Implement real-time monitoring and queue management strategies to align agent availability with call volume, enhancing responsiveness and customer experience
 
--Reduce exportation costs and port fees through policy reforms, digitized port operations, and improved logistics efficiency.
+-Establish a peer mentorship program by pairing top-performing agents with those underperforming to foster knowledge sharing, improve problem-solving skills, and uplift overall team performance.
 
--Investment in better transportation networks, including rail and inland waterways, to lower transfer costs and enhance supply chain movement.
+-Optimize workforce scheduling by aligning agent availability with peak call hours especially during weekends and Mondays to reduce unanswered calls. Implement call queue management tools and consider self-service options (e.g., IVR, chatbots) to improve response rates, enhance customer satisfaction, and protect brand reputation.
 
--Optimize pricing strategies and focus on value addition (e.g.,systems for processing raw products locally) to maximize profitability.
+-Implement a continuous training and development program to reinforce best practices, keep agents updated on industry trends, and enhance their ability to deliver effective solutions. This will not only improve individual agent performance but also ensure consistent, high-quality custome.
 
--Expand storage infrastructure and implement digital tracking systems to improve supply chain efficiency and reduce losses.
-
--Leverage trade agreements and market intelligence to unlock new export opportunities and strengthen global market position.
-
-
-
-
-
-
+-Implement multichannel support (e.g., live chat, email, and social platforms) to enhance service accessibility and streamline operational efficiency.
