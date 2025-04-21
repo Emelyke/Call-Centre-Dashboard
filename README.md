@@ -1,11 +1,11 @@
-# Call-Centre-Optimization (Dashboard Creation Using Power BI)
+# Call-Centre-Optimization Analysis (Using Power BI)
 ## Project Objective
 To derive actionable insights and create a dashboard that highlights key performance indicators (KPIs) that enhances operational efficiency, reduce wait times and maximize customer satisfaction of a growing call center that handles customer inquiries across various topics.
 
 ## Data Used
 - <a href="https://github.com/Emelyke/Call-Centre-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 
-## Problem Statement (KPI'S)
+## Problem Statement
 -What is the average speed/call duration of answer? and How does the average speed of answer vary by agent and imparts operation?
 
 -Are there any trends in unanswered calls across dates and time?
